@@ -8,3 +8,9 @@ b=int(input("enter a number:"))
 c=input("enter your name")
 print("your name is",a)
 print("avg=",num+num+num)
+
+
+
+
+a=(1,2,3,"abc",3)
+print(a)
